@@ -1,0 +1,5 @@
+Based on standard reference ranges, hemoglobin levels, white blood cell count, platelet count, and cholesterol levels should be within the following ranges:
+- Hemoglobin levels: Men: 13.5 to 17.5 g/dL, Women: 12.0 to 15.5 g/dL
+- White Blood Cell (WBC) count: 4,500 to 11,000 cells/mcL
+- Platelet count: 150,000 to 450,000 cells/mcL
+- Cholesterol levels: Total cholesterol less than 200 mg/dL, LDL cholesterol less than 100 mg/dL, HDL cholesterol 40 mg/dL or higher for men and 50 mg/dL or higher for women.
