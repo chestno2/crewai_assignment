@@ -1,5 +1,5 @@
 1 *Agents*
-    - Three agents  `Analyzer`, `Researcher`, and `Doctor`.
+    - Three agents  `Analyzer`, `Researcher`, and `recommender`.
     - Agent is assigned a specific role, goal, and backstory, and is powered by the `ChatGroq` language model.
     - The agents can perform tasks sequentially, retaining memory and context across tasks.
 
@@ -12,18 +12,18 @@
 
  Installation
 
-1 *Clone the Rep*
+1 Clone the Repo
    Using Git clone
    
 
- *Install Dependencies*:
+ Install all the dependency
     ```bash
     python -m venv venv
     .\venv\Scripts\activate
     pip install -r requirements.txt
     ```
 
-3 Set Up Environment Variables:
+ Set Up Environment Variables:
     - Create a `.env` file in the root directory of the project.
     - Add your API keys
       GROQ_API_KEY=your_groq_api_key
